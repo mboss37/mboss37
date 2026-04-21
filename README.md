@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**mboss37/mboss37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mihael Bosnjak
 
-Here are some ideas to get you started:
+Forward Deployed Engineer at Salesforce (Agentforce), based in Zurich.
+Deploying AI agents into enterprise production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Building
+
+- [hyperterminal.ai](https://hyperterminal.ai) — AI industry intelligence platform with an MCP server. Stay current in 10 minutes.
+- [MuleSoft AI Chain (MAC) Project](https://github.com/MuleSoft-AI-Chain-Project) — Open-source LLM orchestration framework for MuleSoft. Productized by Salesforce.
+- [rag-playground](https://github.com/mboss37/rag-playground) — Interactive sandbox for comparing 5 RAG architectures side-by-side.
+- [claude-launchpad](https://github.com/mboss37/claude-launchpad) — Consistent developer experience for Claude Code.
+
+### Elsewhere
+
+- [LinkedIn](https://linkedin.com/in/mihaelbos)
+- [hyperterminal.ai](https://hyperterminal.ai)
